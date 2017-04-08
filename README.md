@@ -1,6 +1,11 @@
-# translateAll.jquery.js
+<h1>translateAll.jquery.js</h1>
+
 This is the updated version of tinoni/translate.js.
 You can see the orignal code here. www.github.com/tinoni/translate.js
 This version is for translate any attribute too.  
 like in this code the placeholder of a input is translating. 
 You can change any attrubute in any element you want by using this code. 
+
+<h2>Usage</h2>
+You can see the usage here. 
+https://github.com/tinoni/translate.js
